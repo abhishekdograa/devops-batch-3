@@ -1,0 +1,21 @@
+Commands
+To initiate a folder to repo
+git init
+
+To check the status of files under repo
+git status
+
+to adda file in git repo
+git add file_name
+
+to commit in order to add file in the VCS repo
+git commit -m "added first file to repo"
+ 
+to check the log of the commit
+git log
+
+after checking from the git status, if we want to recover any deleted file
+git restore text_with_git.txt
+
+To check the changes in modified file.
+diff git
